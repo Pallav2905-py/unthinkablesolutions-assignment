@@ -1,7 +1,5 @@
 # Healthcare Appointment & Follow-up Manager
 
-> Built for **Unthinkable Solutions** — A production-ready healthcare SaaS platform with AI-powered appointment management, patient/doctor portals, and smart notifications.
-
 ![Healthcare Manager](https://img.shields.io/badge/Healthcare-Manager-16a34a?style=for-the-badge&logo=heart)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)
@@ -310,11 +308,3 @@ GOOGLE_REDIRECT_URI=http://localhost:3000/api/calendar/callback
 | Styling | Tailwind CSS 4 |
 
 ---
-
-## 👥 Team
-
-Built by **Unthinkable Solutions** for the healthcare platform assignment.
-
----
-
-*© 2024 Unthinkable Solutions. All rights reserved.*
